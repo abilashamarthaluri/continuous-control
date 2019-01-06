@@ -16,8 +16,9 @@ In this environment, a double-jointed arm can move to target locations. A reward
 The observation space consists of 33 variables corresponding to position, rotation, velocity, and angular velocities of the arm. Each action is a vector with four numbers, corresponding to torque applicable to two joints. Every entry in the action vector should be a number between -1 and 1.
     
 ## Prerequisites
+1. Please follow the instructions given at [Udacity DRLND](https://github.com/udacity/deep-reinforcement-learning/#dependencies) repository for setting up the environment we need with python 3.6 and the other requirements. 
 
-1. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
+2. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
 
     - **_Version 1: One (1) Agent_**
         - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher_Linux.zip)
