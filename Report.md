@@ -32,7 +32,7 @@ Ornstein-Uhlenbeck process is used for introducing noise in the actions, but the
 
 [//]: # (Image References)
 
-[image1]: https://github.com/abilashamarthaluri/continuos_control/blob/master/images/multi_reacher.jpg "Report for Multi Agent"
+[image1]: https://raw.githubusercontent.com/abilashamarthaluri/continuous-control/master/images/multi_reacher.jpg "Report for Multi Agent"
 
 ## Rewards Plot: 
 
